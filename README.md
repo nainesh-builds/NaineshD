@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nainesh
 - 👀 I’m interested in automating tasks to make others gain effortless benefits
-- 🌱 I’m currently learning pyspark, databricks
+- 🌱 I’m currently learning pyspark, databricks for enhancing data engineering concepts and building ML model
 - 💞️ I’m looking to collaborate on different cloud projects
 - 📫 How to reach me ... over linkedin
 - 😄 Pronouns: He/him/his
